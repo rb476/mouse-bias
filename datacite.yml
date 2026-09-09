@@ -1,39 +1,39 @@
 authors:
   -
-    firstname: Raymundo
-    lastname: Báez-Mendoza
+    firstname: "Raymundo"
+    lastname: "Báez-Mendoza"
     affiliation: 'Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Department of Neurobiology, German Primate Center, Germany'
     id: 'ORCID:0000-0002-5989-7647'
   -
-    firstname: Firas
-    lastname: Bounni
+    firstname: "Firas"
+    lastname: "Bounni"
     affiliation: 'Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA'
   -
-    firstname: Benjamin
-    lastname: Sanders
+    firstname: "Benjamin"
+    lastname: "Sanders"
     affiliation: 'Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Northeastern University, USA'
   -
-    firstname: 'S. William'
-    lastname: Li
-    affiliation: 'Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Department of Psychiatry, Yale School of Medicine, USA'
+    firstname: "S. William"
+    lastname: "Li"
+    affiliation: "Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Department of Psychiatry, Yale School of Medicine, USA"
   -
-    firstname: 'Christopher Tyler'
-    lastname: Short
+    firstname: "Christopher Tyler"
+    lastname: "Short"
     affiliation: 'Department of Neurobiology, German Primate Center, Germany'
   -
-    firstname: 'R. Allie'
-    lastname: Cauchon
-    affiliation: 'Department of Psychiatry, Yale School of Medicine, USA'
+    firstname: "R. Allie"
+    lastname: "Cauchon"
+    affiliation: "Department of Psychiatry, Yale School of Medicine, USA"
   -
-    firstname: 'Ziv M.'
-    lastname: Williams
+    firstname: "Ziv M."
+    lastname: "Williams"
     affiliation: 'Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Health Sciences and Technology, Harvard-MIT, USA; Program in Neuroscience; Harvard Medical School, USA'
 title: 'Single-neurons in the medial prefrontal cortex encode social group influence and conformity'
 description: 'Custom code used in the study.'
 keywords:
   - Neuroscience
-  - 'Social behavior'
-  - 'Prefrontal cortex'
+  - Social behavior
+  - Prefrontal cortex
   - Mouse
 license:
   name: 'Creative Commons CC-BY-4.0 Public Domain Dedication'
