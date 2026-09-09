@@ -2,44 +2,42 @@ authors:
   -
     firstname: Raymundo
     lastname: Báez-Mendoza
-    affiliation: "Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Department of Neurobiology, German Primate Center, Germany"
+    affiliation: 'Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Department of Neurobiology, German Primate Center, Germany'
     id: 'ORCID:0000-0002-5989-7647'
   -
     firstname: Firas
     lastname: Bounni
-    affiliation: "Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA"   
+    affiliation: 'Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA'
   -
     firstname: Benjamin
     lastname: Sanders
-    affiliation: "Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Northeastern University, USA"   
+    affiliation: 'Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Northeastern University, USA'
   -
-    firstname: S. William
+    firstname: 'S. William'
     lastname: Li
-    affiliation: "Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Department of Psychiatry, Yale School of Medicine, USA"   
-  -   
-    firstname: Christopher Tyler
+    affiliation: 'Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Department of Psychiatry, Yale School of Medicine, USA'
+  -
+    firstname: 'Christopher Tyler'
     lastname: Short
-    affiliation: "Department of Neurobiology, German Primate Center, Germany"
+    affiliation: 'Department of Neurobiology, German Primate Center, Germany'
   -
-    firstname: R. Allie
+    firstname: 'R. Allie'
     lastname: Cauchon
-    affiliation: "Department of Psychiatry, Yale School of Medicine, USA"   
+    affiliation: 'Department of Psychiatry, Yale School of Medicine, USA'
   -
-    firstname: Ziv M.
+    firstname: 'Ziv M.'
     lastname: Williams
-    affiliation: "Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Health Sciences and Technology, Harvard-MIT, USA; Program in Neuroscience; Harvard Medical School, USA"
-
-
+    affiliation: 'Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, USA; Health Sciences and Technology, Harvard-MIT, USA; Program in Neuroscience; Harvard Medical School, USA'
 title: 'Single-neurons in the medial prefrontal cortex encode social group influence and conformity'
-description: "Custom code used in the study."
+description: 'Custom code used in the study.'
 keywords:
   - Neuroscience
-  - Social behavior
-  - Prefrontal cortex
+  - 'Social behavior'
+  - 'Prefrontal cortex'
   - Mouse
 license:
-  name: 'Creative Commons CC0 1.0 Public Domain Dedication'
-  url: 'https://creativecommons.org/publicdomain/zero/1.0/'
+  name: 'Creative Commons CC-BY-4.0 Public Domain Dedication'
+  url: 'https://creativecommons.org/licenses/by/4.0/deed.en'
 funding:
   - 'MGH-ECOR Fund for Medical Discovery Fellowship'
   - 'NARSAD Young Investigator Grant from the Brain and Behavior REsearch Foundation'
@@ -47,19 +45,10 @@ funding:
   - 'ERC Strting Grant, NEUROGROUP, 101041799'
   - 'NIH R01HD059852'
   - 'NIH R01NS091390'
-  
 references:
   -
-    id: 'doi:10.xxx/zzzz'
+    id: 'doi:tba'
     reftype: IsSupplementTo
-    citation: Citation1
-  -
-    id: 'arxiv:mmmm.nnnn'
-    reftype: IsSupplementTo
-    citation: Citation2
-  -
-    id: 'pmid:nnnnnnnn'
-    reftype: IsReferencedBy
-    citation: Citation3
+    citation: 'Báez-Mendoza R, Bounni F, Sanders B, Li SW, Short CT, Cauchon RA, Williams ZM (In press) Single-neurons in the medial prefrontal cortex encode social group influence and conformity'
 resourcetype: Dataset
 templateversion: 1.2
