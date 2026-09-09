@@ -165,7 +165,7 @@ Utility function for identifying consecutive occurrences of a target value in a 
 
 ## License & Citation
 
-This code is provided as supplementary material for the paper:
+This code is provided as supplementary material for the paper under an MIT license:
 > "Single neurons in the medial prefrontal cortex encode social group influence and conformity"  
 > Nature Neuroscience (forthcoming)
 
