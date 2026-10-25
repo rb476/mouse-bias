@@ -16,7 +16,6 @@ This repository contains materials covered by different licenses:
 | Source code (`GigE_Record/`) | MIT License |
 | Source code (`Identity corrector/`) | MIT License |
 | Research data (`data/`) | CC BY 4.0 |
-| Documentation and figures | CC BY 4.0 |
 
 Please see `LICENSE-MIT` and `LICENSE-CC-BY-4.0` for the complete
 license texts.
